@@ -1,0 +1,6 @@
+{
+  "name": "AlphaTruth AI - Honest Stock Prediction & Risk Engine",
+  "description": "Next-generation institutional-grade stock intelligence platform addressing retail prediction complaints: real-world slippage backtesting, anti-FOMO chasing radar, plain-English synthesis, automated dynamic exit/sell engine, and transparent pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
